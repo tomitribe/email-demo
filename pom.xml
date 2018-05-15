@@ -12,7 +12,10 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
-        <tomee.version>1.7.5</tomee.version>
+
+        <!--<tomee.version>1.7.5</tomee.version>-->
+        <tomee.version>1.7.6-TT.3</tomee.version>
+
         <docker.plugin.version>0.23.0</docker.plugin.version>
         <amq.version>5.15.2</amq.version>
         <images.owner>tomitribe-support</images.owner>
