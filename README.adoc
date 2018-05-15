@@ -13,3 +13,5 @@ mvn clean install
 mvn --projects run docker:run@solution
 ```
 
+The email files will be available at `./run/target/messages/
+
