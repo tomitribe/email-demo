@@ -1,4 +1,4 @@
-= AMQ Ldap Demo
+= Email Demo
 
 == Prerequisites
 
